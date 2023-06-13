@@ -1,0 +1,19 @@
+{
+  "name": "@htk-extras",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    ".": {
+      "default": "./lib/index.js"
+    }
+  },
+  "bin": {
+    "localhost-debug-server": "./lib/localhost_debug_server.js"
+  },
+  "repository": "git@github.com:hacktoolkit/htk-extras.js.git",
+  "author": "Hacktoolkit <hello@hacktoolkit.>",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
+}
