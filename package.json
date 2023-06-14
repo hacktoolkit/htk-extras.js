@@ -1,5 +1,5 @@
 {
-  "name": "@htk-extras",
+  "name": "htk-extras",
   "version": "1.0.1",
   "type": "module",
   "exports": {
