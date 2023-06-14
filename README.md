@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/htk-extras.js.svg)](//npmjs.com/package/htk-extras.js)
+[![npm version](https://badge.fury.io/js/htk-extras.svg)](//npmjs.com/package/htk-extras)
 
 # htk-extras.js
 
